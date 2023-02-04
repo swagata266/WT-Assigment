@@ -1,0 +1,23 @@
+input
+{
+    /* width: 90%; */
+
+}
+textarea
+{
+    width:100%;
+    padding-inline-start: 30px;
+}
+.length
+{
+    width:90%;
+    text-align: left;
+}
+.submit
+{
+    width:90%;
+    text-align:center;
+}
+h3{
+    text-align: center;
+}
